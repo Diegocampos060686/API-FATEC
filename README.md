@@ -3,6 +3,7 @@ Objetivo
 
 O objetivo geral deste trabalho é favorecer o desenvolvimento da aprendizagem, constatando a importância da aplicabilidade entre teoria e prática. Organizamos as tarefas para cada membro da equipe, utilizando o método 5W2H, assim obtendo o resultado proposto pelos professores. Com esta experiência aprimoramos e aprofundamos sobre as cadeias produtivas da RM VALE (Região Metropolitana do Vale), por meio da coleta e análise de dados de importação e exportação. Diante disso, conseguimos identificar a importância do tema apresentado em relação a logística, ampliando nossa visão em relação a área.
 
+
 Prezado/a
 
 Somos a Comexsmart, gostaríamos de agradecê-lo pelo seu negócio, e pela confiança que tem depositado em nossa empresa. Será um prazer realizar esse projeto com o senhor, estamos felizes e motivados para atender suas necessidades e serviços.
