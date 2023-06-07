@@ -2,6 +2,7 @@
 Objetivo
 
 O objetivo geral deste trabalho é favorecer o desenvolvimento da aprendizagem, constatando a importância da aplicabilidade entre teoria e prática. Organizamos as tarefas para cada membro da equipe, utilizando o método 5W2H, assim obtendo o resultado proposto pelos professores. Com esta experiência aprimoramos e aprofundamos sobre as cadeias produtivas da RM VALE (Região Metropolitana do Vale), por meio da coleta e análise de dados de importação e exportação. Diante disso, conseguimos identificar a importância do tema apresentado em relação a logística, ampliando nossa visão em relação a área.
+![WhatsApp Image 2023-06-06 at 12 06 42 (1)](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/e756027a-248e-4b4a-9a0d-c668fa1f5363)
 
 
 Prezado/a
