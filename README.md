@@ -22,8 +22,11 @@ A nossa missão é fornecer soluções em logística de excelência para nossos 
 
 Ser reconhecida como a melhor consultoria em logística, fornecendo serviços de qualidade e excelência, e sendo referência no mercado pela nossa capacidade de agregar valor aos nossos clientes.
 
-Valores: Agimos sempre com integridade e respeito, seguindo princípios éticos e morais em nossas relações com clientes, fornecedores e colaboradores.
-# FERRAMENTAS UTILIZADA
+# VALORES 
+
+Agimos sempre com integrida erespeito,seguindo princípios éticos e morais em nossas relações com clientes,fornecedores e colaboradores.
+
+# FERRAMENTAS UTILIZADA 
 ![1621f78a-0634-4547-9dd8-0d7fd5f1e0e8](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/638d8e71-9aad-489b-a53e-379914bc0bb7)
 ![ed1e03c7-0314-4907-a086-417baaead797](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/5a8a4b26-1d06-4664-b034-ac4f36059ef6)
 ![b43143ba-681c-4afa-9e3b-70ea5322344f](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/dde3c860-a36b-45bd-9195-c1d75a3d489c)
