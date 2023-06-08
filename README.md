@@ -5,7 +5,7 @@ O objetivo geral deste trabalho é favorecer o desenvolvimento da aprendizagem, 
 ![WhatsApp Image 2023-06-06 at 12 06 42 (1)](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/e756027a-248e-4b4a-9a0d-c668fa1f5363)
 
 
-Prezado/a
+# PREZADO/A
 
 Somos a Comexsmart, gostaríamos de agradecê-lo pelo seu negócio, e pela confiança que tem depositado em nossa empresa. Será um prazer realizar esse projeto com o senhor, estamos felizes e motivados para atender suas necessidades e serviços.
 
