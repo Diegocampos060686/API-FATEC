@@ -40,4 +40,5 @@ Agimos sempre com integrida e respeito,seguindo princípios éticos e morais em 
 ![90f87f40-027f-40cd-93e1-fcd4984ee6cb](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/fa5a5aad-5b6d-405b-8105-532f52c74315)
 
 # NOSSA EQUIPE
+![0baffad5-3f9d-4be1-8053-522593de8d30](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/003bde95-54ba-40b5-927e-acdb4b14349c)
 
