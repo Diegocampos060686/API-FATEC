@@ -48,3 +48,6 @@ DIEGO CAMPOS
 JULÍA SILVA
 ![bf5eb912-3e6d-4d94-a53a-08355eb82a66](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/9bada002-9dd7-4d2e-9bb1-95aa056c02ee)
 MARIA MARTINS
+
+![e275f55e-dcff-4081-8f70-2371b49ded9e](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/5e018c11-9779-43cc-9e55-3ef9150f921f)
+
