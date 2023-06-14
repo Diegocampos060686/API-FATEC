@@ -1,7 +1,7 @@
 # API-FATEC
 # OBJETIVO
 
-Favorecer o desenvolvimento da aprendizagem, constatando a importância da aplicabilidade entre teoria e prática. Organizamos as tarefas para cada membro da equipe, utilizando o método 5W2H, assim obtendo o resultado padrão pelos professores. Com esta experiencia aprimoramos e aprofundamos sobre as cadeias produtivas da RM VALE, por meio da coleta de dados de importação e exportação. Diante disso, identificamos a importância do tema apresentado em relação a logística, ampliando nossa visão.
+Favorecer o desenvolvimento da aprendizagem, constatando a importância da aplicabilidade entre teoria e prática. Organizamos as tarefas para cada membro da equipe, utilizando o método 5W2H, assim obtendo o resultado proposto pelos professores. Com esta experiencia aprimoramos e aprofundamos sobre as cadeias produtivas da RM VALE, por meio da coleta de dados de importação e exportação. Diante disso, identificamos a importância do tema apresentado em relação a logística, ampliando nossa visão.
 ![fd566434-084f-43f9-ae2c-70562b6975ea](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/804ffba7-bafa-4352-8f18-87b6222863a7)
 
 ![63aa5307-d7b4-4602-80fa-5b2ef114782d](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/c361562e-b337-432d-bafb-a9c18206a992)
