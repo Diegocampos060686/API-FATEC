@@ -45,4 +45,4 @@ ALLAN QUIRINO
 ![8e43b21d-e34d-40ef-91b5-512070eb4371](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/cafe2d0e-233f-47ab-bba5-fc48ad45201b)
 DIEGO CAMPOS
 ![9b330d3e-b6e7-4d2f-bca0-e4d2aa0ceed3](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/431d2441-9a10-4cc3-b861-889aba17ef4e)
-
+JULÍA SILVA
