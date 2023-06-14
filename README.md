@@ -41,4 +41,4 @@ Agimos sempre com integrida e respeito,seguindo princípios éticos e morais em 
 
 # NOSSA EQUIPE
 ![0baffad5-3f9d-4be1-8053-522593de8d30](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/003bde95-54ba-40b5-927e-acdb4b14349c)
-
+ALLAN QUIRINO
