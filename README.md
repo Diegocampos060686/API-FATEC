@@ -55,3 +55,5 @@ ROBERTO BARROS
 ![dab52600-7fb9-4830-aee9-d5b3514175ec](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/e31f4d9f-5788-4196-a501-e371803372df)
 ![2535800f-3242-4cf6-b0c1-d7dc1561add2](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/184a458b-61bc-4f19-b2d6-e4762b45b3ee)
 ![c7fea5cc-8050-4cf5-b6c1-f25650ab7337](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/f7ba3039-1c63-4c4a-ac55-02caef7ca5bb)
+
+<ahref="HTTPS://https://app.powerbi.com/links/P1c02TKs-i?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=ce60b5d6-4974-4ba0-9e90-1a75436e114f"<imgsrc=https://fatecspgov-my.sharepoint.com/:i:/r/personal/diego_fernandes6_fatec_sp_gov_br/Documents/imagens/fd566434-084f-43f9-ae2c-70562b6975ea.jpg?csf=1&web=1&e=BLUlHP"></a>
