@@ -57,7 +57,9 @@ ROBERTO BARROS
 ![c7fea5cc-8050-4cf5-b6c1-f25650ab7337](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/f7ba3039-1c63-4c4a-ac55-02caef7ca5bb)
 
 <div>
-      <a href="https://copiadorananquim.com.br">Acesse nosso Dashboard no Power BI<img src="https://github.com/Diegocampos060686/API-FATEC/assets/129405986/3afdae99-cace-437e-956e-2ca0b72a4ff7" style="width: 50px;"/></a>
+      <h5>Acesse nosso Dashboard no Power BI<img </h5>
+            <p>
+      <a href="https://copiadorananquim.com.br"><img src="https://github.com/Diegocampos060686/API-FATEC/assets/129405986/3afdae99-cace-437e-956e-2ca0b72a4ff7" style="width: 200px;"/></a>
 
 </div>
 
