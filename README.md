@@ -56,3 +56,8 @@ ROBERTO BARROS
 ![2535800f-3242-4cf6-b0c1-d7dc1561add2](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/184a458b-61bc-4f19-b2d6-e4762b45b3ee)
 ![c7fea5cc-8050-4cf5-b6c1-f25650ab7337](https://github.com/Diegocampos060686/API-FATEC/assets/129405986/f7ba3039-1c63-4c4a-ac55-02caef7ca5bb)
 
+<div>
+      <a href="https://copiadorananquim.com.br"><img src="http://copiadorananquim.com.br/imagens/300x300px.png"/></a>
+
+</div>
+
