@@ -59,7 +59,7 @@ ROBERTO BARROS
 <div>
       <h5>Acesse nosso Dashboard no Power BI<img </h5>
             <p>
-      <a href="[https://copiadorananquim.com.br](https://app.powerbi.com/links/P1c02TKs-i?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=ce60b5d6-4974-4ba0-9e90-1a75436e114f)https://app.powerbi.com/links/P1c02TKs-i?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=ce60b5d6-4974-4ba0-9e90-1a75436e114f"><img src="https://github.com/Diegocampos060686/API-FATEC/assets/129405986/3afdae99-cace-437e-956e-2ca0b72a4ff7" style="width: 200px;"/></a>
+      <a href="https://app.powerbi.com/links/P1c02TKs-i?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=ce60b5d6-4974-4ba0-9e90-1a75436e114f"><img src="https://github.com/Diegocampos060686/API-FATEC/assets/129405986/3afdae99-cace-437e-956e-2ca0b72a4ff7" style="width: 200px;"/></a>
 
 </div>
 
